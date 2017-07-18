@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="608daf3e-09f1-43b6-af91-9b6e45029acb" name="test" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="D:\workspace\intellij\githubTest" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
